@@ -4,16 +4,21 @@
 # 백엔드 개발자 이우진입니다.
 ## _The Last Markdown Editor, Ever_
 
-[![LTS2's GitHub stats](https://github-readme-stats.vercel.app/api?username=LTS2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LTS2&layout=compact)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 
 <!--타이틀 부분-->
 <div align="center">
 <!--   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" /> -->
+
+  깃허브 상태창<br>
+  [![LTS2's GitHub stats](https://github-readme-stats.vercel.app/api?username=LTS2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+가장 많이 사용한 언어<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LTS2&layout=compact)
+
+백준 등급<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=woojin98)](https://solved.ac/woojin98)
   <h1>Welcome to LTS2's GitHub</h1>
   
 </div>
@@ -84,6 +89,10 @@
     <img
       src="https://img.shields.io/badge/ewjin98@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
+</div>
+<div align="center">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLTS2%2Fhit-counter&count_bg=%238A3DC8&title_bg=%23455FB6&icon=dell.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 <!--
