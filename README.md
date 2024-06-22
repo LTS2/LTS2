@@ -1,11 +1,4 @@
-### Hi there 👋
-
-# 안녕하세요. 
-# 백엔드 개발자 이우진입니다.
-## _The Last Markdown Editor, Ever_
-
-
-
+# 안녕하세요. 백엔드 개발자 이우진입니다.
 
 <!--타이틀 부분-->
 <div align="center">
@@ -26,34 +19,42 @@
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/java-give-red?stype=for-the-badge" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&amp;logo=Spring&amp;logoColor=white" alt="Spring Badge">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="springboot Badge">
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+   <img src="https://img.shields.io/badge/Nest.js-E0234E.svg?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" alt="nestjs Badge">
+  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&amp;logo=typeorm&amp;logoColor=white" alt="typeorm Badge">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="nodedotjs Badge">
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
+
+  
 </div>
 
+<div align="center"> 
+  <h3>Server</h3>
+  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&amp;logo=amazonec2&amp;logoColor=white" alt="amazonec2 Badge">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=white" alt="linux Badge">
+  <img src="https://img.shields.io/badge/Rocky Linux-10B981?style=for-the-badge&amp;logo=rockylinux&amp;logoColor=white" alt="rockylinux Badge">
+  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&amp;logo=centos&amp;logoColor=white" alt="centos Badge">
+  
+</div>
+
+<div align="center"> 
+  <h3>DataBase</h3>
+  <img src="https://img.shields.io/badge/Mysql-4479A1.svg?style=for-the-badge&amp;logo=Mysql&amp;logoColor=white" alt="Mysql Badge">
+  <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&amp;logo=MariaDB&amp;logoColor=white" alt="MariadDB Badge">
+</div>
 <br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
-</div>
 
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
 </div>
 
 <br>
@@ -63,19 +64,7 @@
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
+  <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -85,10 +74,12 @@
   <a href="https://velog.io/@woojin98">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:ewjin98@gmail.com">
+
+   <a href="mailto:leewoojin98@naver.com">
     <img
-      src="https://img.shields.io/badge/ewjin98@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/leewoojin98@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
+  
 </div>
 <div align="center">
   
@@ -109,8 +100,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 
 - 💬 Ask me about ...
-
-- 📫 How to reach me: ...
 
 - 😄 Pronouns: ...
 
