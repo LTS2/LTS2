@@ -10,10 +10,9 @@
 <!-- 가장 많이 사용한 언어<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LTS2&layout=compact) -->
 
-백준 등급<br>
+<!-- 백준 등급<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=woojin98)](https://solved.ac/woojin98)
-  <h1>Welcome to LTS2's GitHub</h1>
-  
+  -->
 </div>
 
 <!--내용 부분-->
