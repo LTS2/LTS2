@@ -4,11 +4,11 @@
 <div align="center">
 <!--   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" /> -->
 
-  깃허브 상태창<br>
-  [![LTS2's GitHub stats](https://github-readme-stats.vercel.app/api?username=LTS2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- 깃허브 상태창<br>
+  [![LTS2's GitHub stats](https://github-readme-stats.vercel.app/api?username=LTS2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
-가장 많이 사용한 언어<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LTS2&layout=compact)
+<!-- 가장 많이 사용한 언어<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LTS2&layout=compact) -->
 
 백준 등급<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=woojin98)](https://solved.ac/woojin98)
