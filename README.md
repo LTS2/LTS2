@@ -6,6 +6,8 @@
   
 <!--   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" /> -->
 
+[![LTS2's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LTS2)](https://github.com/LTS2)
+
    깃허브 상태창<br>
   [![LTS2's GitHub stats](https://github-readme-stats.vercel.app/api?username=LTS2&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
