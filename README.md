@@ -30,8 +30,6 @@
   <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="nodedotjs Badge">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
-
-  
 </div>
 
 <div align="center"> 
