@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
 </div>
 
+
 <div align="center"> 
   <h3>Server</h3>
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&amp;logo=amazonec2&amp;logoColor=white" alt="amazonec2 Badge">
