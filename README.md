@@ -2,7 +2,6 @@
 
 <!--타이틀 부분-->
 <div align="center">
-
 [![LTS2's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LTS2)](https://github.com/LTS2)
 
    깃허브 상태창<br>
