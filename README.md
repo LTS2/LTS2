@@ -2,6 +2,7 @@
 
 <!--타이틀 부분-->
 <div align="center">
+
 [![LTS2's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LTS2)](https://github.com/LTS2)
 
    깃허브 상태창<br>
@@ -14,6 +15,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=woojin98)](https://solved.ac/woojin98)
   
 </div>
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -29,7 +31,6 @@
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
 </div>
-
 
 <div align="center"> 
   <h3>Server</h3>
