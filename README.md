@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&amp;logo=Spring&amp;logoColor=white" alt="Spring Badge">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="springboot Badge">
+  <img src="https://img.shields.io/badge/Spring_data_jpa-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white" alt="springboot Badge">
 </div>
 
 <div align="center">
