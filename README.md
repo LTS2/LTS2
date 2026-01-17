@@ -5,8 +5,10 @@ Backend engineer based in Korea. I care about reliability, performance, and obse
 ## Open Source Contributions
 
 - oh-my-opencode
-  - Pull Request: Add unit tests for the shared deep-merge utility (plain object detection, deep merge behavior, array replacement, unsafe key protection, max depth behavior)
+  - Pull Request (merged): Add comprehensive unit tests for the shared deep-merge utility (plain object detection, deep merge behavior, array replacement, unsafe key protection, max depth handling)
     - https://github.com/code-yeongyu/oh-my-opencode/pull/745
+  - Pull Request (merged): Fix background-agent model not persisting on resume by passing the stored model to preserve category config, and add tests for model persistence
+    - https://github.com/code-yeongyu/oh-my-opencode/pull/846
 
 ## What I focus on
 
@@ -21,5 +23,6 @@ Backend engineer based in Korea. I care about reliability, performance, and obse
 - Monitoring: VisualVM, Prometheus, Grafana
 
 ## Contact
+
 - Email: leewoojin98@naver.com
-   - I am always happy to chat, feel free to email me anytime 🙂
+  - Want to chat over coffee sometime? Feel free to email me.
