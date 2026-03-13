@@ -4,12 +4,12 @@ Backend engineer based in Korea. I care about reliability, performance, and obse
 
 ## Open Source Contributions
 
-- oh-my-opencode
+- oh-my-openagent
   - Pull Request (merged): Add comprehensive unit tests for the shared deep-merge utility (plain object detection, deep merge behavior, array replacement, unsafe key protection, max depth handling)
-    - PR: https://github.com/code-yeongyu/oh-my-opencode/pull/745
+    - PR: https://github.com/code-yeongyu/oh-my-openagent/pull/745
   - Pull Request (merged): Fix background-agent model not persisting on resume by passing the stored model to preserve category config, and add tests for model persistence
-    - PR: https://github.com/code-yeongyu/oh-my-opencode/pull/846
-    - Issue: https://github.com/code-yeongyu/oh-my-opencode/issues/826
+    - PR: https://github.com/code-yeongyu/oh-my-openagent/pull/846
+    - Issue: https://github.com/code-yeongyu/oh-my-openagent/issues/826
 
 ## What I focus on
 
